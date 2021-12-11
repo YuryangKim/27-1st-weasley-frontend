@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -30,27 +30,25 @@
 
 ## 배운 점
 
-1. fetch를 통한 서버와의 통신 방법을 알게 되었습니다.
-2. state 관리와 불변성에 대해 이해하게 되었습니다.
-3. scss 활용
+1. 로그인, 로그아웃 및 회원 가입 페이지의 fetch를 통한 서버와의 통신 방법을 알게 되었습니다. 
+2. session storage 저장 함수에 대해 더 배우게 되었습니다.
+3. state 관리와 불변성에 대해 이해하게 되었습니다.
+5. scss 활용을 통하여 네스팅 기능의 편의성을 더 알게 되었습니다. 
 
 <br/>
 
 ## 느낀 점
 
-1. 팀 단위의 프로젝트를 통해 의사소통 능력 향상 및 협업의 중요성과 이해도를 향상 시키는 계기가 되었습니다.
-
-2. 공통적인 목적성을 가지고 프로젝트를 진행해볼 수 있는 기회가 있어서 좋았고, 백엔드와 실질 적인 통신을 해봄으로써, API에 대한 전반적인 이해도가 향상 되었습니다.
-
-3. 리액트적 사고와 문법에 대해 기본적인 이해와 리액트에 대한 지적호기심이 더욱 생겼습니다.
+1. 팀 단위의 프로젝트를 통해 의사소통 능력 향상 및 협업의 중요성과 이해도를 향상하는 계기가 되었습니다.
+2. 공통적인 목적성을 가지고 프로젝트를 진행해볼 기회가 있어서 좋았고, 백엔드와 실질적인 통신을 해봄으로써, API에 대한 전반적인 이해도가 향상되었습니다.
+3. 리액트적 사고와 문법에 대해 기본적인 이해와 리액터에리액트에 대한 지적 호기심이 더욱 생겼습니다.
 
 <br/>
 
 ## 아쉬운 점
 
-1. 기능 구현에 초점을 맞춰서 사용자 중심의 UI를 고려하지 못했다. 그에 따라 CSS의 완성도가 부족했던 것 같습니다.
-
-2. 첫 주의 협업 툴의 사용시에 있어서 업무 세분화가 체계적으로 안되어 아쉬웠지만, 2주차 때 checklist 활용을 통해서 업무를 분배하고 진행습니다.
+1. 기능 구현에 초점을 맞춰서 사용자 중심의 UI를 고려하지 못했습니다. 그에 따라 CSS의 완성도가 부족했던 것 같습니다.
+2. 첫 주의 협업 툴의 사용 시에 있어서 업무 세분화가 미흡하여 체계성이 아쉬웠지만, 2주 차 때 checklist 활용을 통해서 업무를 분배하고 진행했습니다.
 
 ---
 
